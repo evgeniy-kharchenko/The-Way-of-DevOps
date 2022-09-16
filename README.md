@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Всем, кому интересно развиваться в DevOps направлении, посвящается</h2>  
 <p align="center">
-  <img width="400" height="400" src="./logo/devops.png">
+  <img width="1000" height="500" src="./logo/DevOps_Front.gif">
 </p>
 
 ### Про мотивацию
