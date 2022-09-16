@@ -24,3 +24,10 @@
 
 ---
 # DevOps Roadmap
+```mermaid
+graph TD
+    C{DevOps}
+    C --> D[DevOps culture]
+    C --> E[DevOps automation]
+    C --> F[DevOps ways of working]
+```
