@@ -24,10 +24,14 @@
 
 ---
 # DevOps Roadmap
+## Основные верхнеуровневые ветви для развития в DevOps направлении
 ```mermaid
 graph TD
-    C{DevOps}
-    C --> D[DevOps culture]
-    C --> E[DevOps automation]
-    C --> F[DevOps ways of working]
+    A{DevOps}
+    A --> B[DevOps culture]
+    A --> C[DevOps automation]
+    A --> D[DevOps ways of working]
 ```
+- DevOps culture - 
+- DevOps automation - 
+- DevOps ways of working - 
