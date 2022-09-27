@@ -44,5 +44,7 @@ graph TD
     DevOpsCulture --> ORDI[Organisation design and implementation]
     DevOpsCulture --> RLMT[Relationship management]
     DevOpsCulture --> MEAS[Measurement]
-    DevOpsCulture --> LEAD[Competency assessment]
+    DevOpsCulture --> ITMG[IT management]
+    DevOpsCulture --> DLMG[Systems development management]
+    DevOpsCulture --> ETDL[Learning delivery]
 ```
