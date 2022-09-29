@@ -38,7 +38,7 @@ graph TD
 - DevOps ways of working - ветвь развития, посвящена совершенствованию компетенций и навыков связанных с созданием организационных процессов для поддержки культуры и продвижению способов работы с использованием DevOps практик. Все это зависит от вашей общей организационной структуры, но вам, вероятно, потребуется взглянуть на отделы, команды и роли, выходящие за рамки ваших основных команд разработки.
 ---
 ## DevOps culture
-Основные компетенции для развития в ветке `DevOps Culture`:
+Компетенции для развития в ветке `DevOps Culture`:
 ```mermaid
 graph LR
     DevOpsCulture{DevOps Culture}
@@ -66,7 +66,7 @@ graph LR
 
 ---
 ## DevOps Automation
-Основные компетенции для развития в ветке `DevOps Automation`:
+Компетенции для развития в ветке `DevOps Automation`:
 ```mermaid
 graph LR
     DevOpsAutomation{DevOps Automation}
@@ -94,7 +94,7 @@ graph LR
 
 ---
 ## DevOps ways of working
-Основные компетенции для развития в ветке `DevOps ways of working`:
+Компетенции для развития в ветке `DevOps ways of working`:
 ```mermaid
 graph LR
     DevOpsWaysOfWorking{DevOps ways of working}
