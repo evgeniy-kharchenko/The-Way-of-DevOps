@@ -20,11 +20,10 @@ graph LR
     IaaC --> Pulumi
     IaaC --> AWSCDK[AWS CDK]
 
-
     PROG --> ProgrammingLanguages[Programming Language]
     ProgrammingLanguages --> Java
-    ProgrammingLanguages --> Python
     ProgrammingLanguages --> Go
+    ProgrammingLanguages --> Python
     ProgrammingLanguages --> Shell
     ProgrammingLanguages --> SQL
 
@@ -39,8 +38,14 @@ graph LR
     Shell --> TextManipulationTools[Text Manipulation Tools]
     TextManipulationTools --> TxtManipulationTools[sed/awk/cut/uniq/*grep/fmt/tr/cat-tac/head/tail/sort/wc/jq/gron/nl]
     
-
-    TEST --> TestContainers[Testcontainers]
+    TEST --> TestPractices[Testing Practices]
+    TestingPractices --> TDD
+    TestingPractices --> TDS
+    TestingPractices --> ShiftLeft[Shift Left]
+    TestingPractices --> Regress
+    TestingPractices --> Unit[Unit Testing]
+    TEST --> Frameworks
+    Frameworks --> Testcontainers
 
     SINT --> CI[Continious Integration Practise]
     SINT --> VCS[Version control system]
@@ -57,6 +62,7 @@ graph LR
     Containerization --> OCI[Open Container Initiative]
     Containerization --> Tools
     Tools --> Docker
+    Tools --> CRI-O
     Tools --> Kaniko
     Tools --> Buildah
     Tools --> Podman
