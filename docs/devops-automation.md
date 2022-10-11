@@ -38,7 +38,7 @@ graph LR
     Shell --> TextManipulationTools[Text Manipulation Tools]
     TextManipulationTools --> TxtManipulationTools[sed/awk/cut/uniq/*grep/fmt/tr/cat-tac/head/tail/sort/wc/jq/gron/nl]
     
-    TEST --> TestPractices[Testing Practices]
+    TEST --> TestingPractices[Testing Practices]
     TestingPractices --> TDD
     TestingPractices --> TDS
     TestingPractices --> ShiftLeft[Shift Left]
