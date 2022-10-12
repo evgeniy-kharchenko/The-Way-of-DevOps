@@ -47,7 +47,7 @@ graph LR
     TEST --> Frameworks
     Frameworks --> Testcontainers
 
-    SINT --> CI[Continious Integration Practise]
+    SINT --> CI[Continuous Integration Practice]
     SINT --> VCS[Version control system]
     VCS --> Git
     VCS --> SVN
@@ -57,7 +57,7 @@ graph LR
     CICDTools --> GithubActions[Github Actions]
     CICDTools --> CircleCI[Circle CI]
     
-    RELM --> CD[Continious Devlivery/Deployment Practise]
+    RELM --> CD[Continuous Delivery/Deployment Practice]
     RELM --> Containerization
     Containerization --> OCI[Open Container Initiative]
     Containerization --> Tools
