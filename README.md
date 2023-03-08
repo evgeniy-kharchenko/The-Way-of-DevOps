@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Привет, мир</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center"> Всем, кому интересно развиваться в DevOps направлении, посвящается! </h2>  
@@ -14,6 +16,24 @@
   </a>
 </p>
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+- [Привет, мир 
+](#%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82-%D0%BC%D0%B8%D1%80)
+  - [ Всем, кому интересно развиваться в DevOps направлении, посвящается! ](#%D0%92%D1%81%D0%B5%D0%BC-%D0%BA%D0%BE%D0%BC%D1%83-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D0%BE-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F-%D0%B2-devops-%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8-%D0%BF%D0%BE%D1%81%D0%B2%D1%8F%D1%89%D0%B0%D0%B5%D1%82%D1%81%D1%8F)
+    - [Про мотивацию](#%D0%9F%D1%80%D0%BE-%D0%BC%D0%BE%D1%82%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D1%8E)
+    - [О работе](#%D0%9E-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5)
+    - [Дисклеймер](#%D0%94%D0%B8%D1%81%D0%BA%D0%BB%D0%B5%D0%B9%D0%BC%D0%B5%D1%80)
+    - [О методологической базе](#%D0%9E-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9-%D0%B1%D0%B0%D0%B7%D0%B5)
+- [The way of DevOps](#the-way-of-devops)
+  - [Основные ветви для развития в DevOps направлении](#%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%B2%D0%B5%D1%82%D0%B2%D0%B8-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8F-%D0%B2-devops-%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8)
+  - [DevOps culture](#devops-culture)
+  - [DevOps Automation](#devops-automation)
+  - [DevOps ways of working](#devops-ways-of-working)
+  - [ Рекомендуемый Roadmap для развития ](#%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D1%83%D0%B5%D0%BC%D1%8B%D0%B9-roadmap-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8F)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 ### Про мотивацию
 В IT индустрии существует множество карт развития.  
 Различные дорожные карты базируются на различных направлениях, компетенциях и т.д.  
@@ -145,8 +165,6 @@ graph LR
 - Knowledge management - деятельность, связанная с систематическим управлением жизненно важными знаниями для создания ценности для организации путем сбора, обмена, развития и использования коллективных знаний организации для производительности, поддержки принятия решений и снижения рисков. Развитие благоприятной и поощряющей коллаборацию культуры обмена знаниями для успешного внедрения технологических решений для управления знаниями. Обеспечение доступа к неформальным, неявным знаниям, а также формальным, задокументированным, явным знаниям путем фасилитации внутренней и внешней коллаборации и коммуникации.
 
 ---
-
-## 
 <h2 align="center"> Рекомендуемый Roadmap для развития </h2>  
 <p align="center">
   <img width="1000" height="500" src="./logo/DevOps-RoadMap.PNG">

@@ -1,5 +1,15 @@
 # DevOps Roadmap
 Предполагаемая последовательность совершенствования компетенций с приоритетами.  
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [DevOps Roadmap](#devops-roadmap)
+  - [DevOps Culture](#devops-culture)
+  - [DevOps Automation](#devops-automation)
+  - [DevOps ways of working](#devops-ways-of-working)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## DevOps Culture
 ```mermaid
