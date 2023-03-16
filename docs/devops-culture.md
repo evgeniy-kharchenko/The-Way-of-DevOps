@@ -26,7 +26,7 @@ graph LR
     RLMT --> StrategyPlanning
 
     MEAS --> DORA[DORA Metrics]
-    MEAS ---> RnDDevPractaises[Research Developer Practaises and Standards]
+    MEAS ---> RnDDevPractices[Research Developer Practices and Standards]
     MEAS ---> GoalSetting[Goal Setting]
     MEAS ---> KnowledgeManagement[Knowledge Management]
 
