@@ -51,6 +51,13 @@
 Все рекомендации и путь развития построен на базе собственного опыта, а также опыта других инженеров.  
 В качестве методологической базы используются [SFIA DevOps View](https://sfia-online.org/en/tools-and-resources/sfia-views/devops-skills-in-sfia) и [SFIA DevOps Skills](https://sfia-online.org/en/legacy-sfia/sfia-7/sfia-views/devops-view?path=/glance)
 
+### YouTube - Видео с конференции
+Выступление 2022 года по The Way of DevOps
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=72wxPffzNvk" target="_blank"><img src="http://img.youtube.com/vi/72wxPffzNvk/0.jpg" 
+alt="The Way of DevOps" width="240" height="180" border="10" /></a>
+
+
 ---
 # The way of DevOps
 ## Основные ветви для развития в DevOps направлении
